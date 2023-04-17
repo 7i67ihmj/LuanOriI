@@ -1,0 +1,5 @@
+{
+  "version" : "1.0.4",
+  "noi dung" : "-sửa lỗi một số máy không vào được game.\nChúc bạn chơi game vui vẻ\nTruy cập 
+\"https://luanori.online/\" để tải nhé"
+}
